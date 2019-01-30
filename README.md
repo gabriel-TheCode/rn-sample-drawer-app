@@ -47,7 +47,14 @@ cd rn-sample-drawer-app
 npm install
 ```
 
-#### 2. Run the _React Native_ App
+#### 2.1 Open RNS with Expo
+
+First, you need to install Expo CLI (if you don't have it yet). You can do it by running the following command in terminal:
+```
+npm install expo-cli --global
+```
+
+#### 2.2 Run the _React Native_ App
 
 ```
 # Start the React Native packager
