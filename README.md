@@ -2,31 +2,32 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gabriel_theCode.svg?style=social)](https://twitter.com/gabriel_theCode)
 
-Ionic Project with Token Based Restful APIs. 
+React Native Starter app
 
 <table><tr>
-<td width="25%">
-Welcome page
-<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-splashcreen.png?raw=true" width="200" alt="SplashScreen">
+<td width="50%">
+SplashScreen
+<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-splashcreen.png?raw=true" width="400" alt="SplashScreen">
 </td>
-<td width="25%">
+<td width="50%">
 Login page
-<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-login.png?raw=true" width="200" alt="Login form">
+<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-login.png?raw=true" width="400" alt="Login form">
+</td></tr>
+  <tr>
+<td width="50%">
+Sample page
+<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-profile.png?raw=true" width="400" alt="Profile">
 </td>
-<td width="25%">
-Signup Page
-<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-profile.png?raw=true" width="200" alt="Profile">
+<td width="50%">
+Custom Drawer Navigation
+<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-drawer.png?raw=true" width="400" alt="Drawer Navigation">
 </td>
-<td width="25%">
-Home page
-<img src="https://github.com/gabriel-TheCode/rn-sample-drawer-app/blob/master/screenshots/rn-drawer.png?raw=true" width="200" alt="Drawer Navigation">
-</td>
-
-</tr></table>
+  </tr>
+</table>
 
 ## 👋 Intro
 
-This [React Native app](https://facebook.github.io/react-native/) built with Expo allows you to easily start a project with a splashscreen, a login, and a drawer-navigation already configured
+This [React Native app](https://facebook.github.io/react-native/) built with Expo allows you to easily start a project with a splashscreen, a login, and a custom drawer-navigation already configured
 
 
 
