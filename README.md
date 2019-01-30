@@ -27,7 +27,7 @@ Custom Drawer Navigation
 
 ## 👋 Intro
 
-This [React Native app](https://facebook.github.io/react-native/) built with Expo allows you to easily start a project with a splashscreen, a login, and a custom drawer-navigation already configured
+]This [React Native app](https://facebook.github.io/react-native/) built with [Expo](https://github.com/expo/expo) allows you to easily start a project with a splashscreen, a login, and a custom drawer-navigation already configured
 
 
 
