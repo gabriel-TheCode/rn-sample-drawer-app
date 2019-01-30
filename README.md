@@ -4,6 +4,9 @@
 
 React Native Starter app
 
+#### Build it now !
+<a href="https://expo.io/@gabriel_thecode/rn-sample-drawer-app"><img src="/assets/expo-demo.jpg" alt="React Native Expo Demo" height="50" />
+
 <table><tr>
 <td width="50%">
 SplashScreen
